@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "StealSMP",
-    "password": "snow0501",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "steelsmp.minecraft.ceu.gg",
+    "ip": "servidores.ceu.gg:23795",
     "port": 23795,
     "version": "1.21.11",
     "try-creative": false
